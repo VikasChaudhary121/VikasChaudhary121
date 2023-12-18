@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VikasChaudhary121
 - 👀 I’m interested in Devops
-- 🌱 I’m currently learning kubernities
+- 🌱 I’m currently looking for Devops Internship.
 - 📫 How to reach me vikaschaudhary432005@gmail.com
 
 <!---
