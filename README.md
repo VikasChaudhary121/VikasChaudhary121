@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VikasChaudhary121
-- 👀 I’m interested in Devops
-- 🌱 I’m currently looking for Devops Internship.
+- 👀 I’m a full stack web developer
+- 🌱 I’m currently looking for web development Internship.
 - 📫 How to reach me vikaschaudhary432005@gmail.com
 
 <!---
