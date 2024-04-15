@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VikasChaudhary121
 - 👀 I’m a full stack web developer
-- 🌱 I’m currently looking for web development Internship.
+- 🌱 I’m currently looking for web development job role.
 - 📫 How to reach me vikaschaudhary432005@gmail.com
 
 <!---
